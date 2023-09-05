@@ -1,0 +1,56 @@
+{
+    "name": "ModifiedControls",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "27345d51-33c1-4ad7-973b-5837fcda30d7",
+            "actions": [
+                {
+                    "name": "AcceptReward",
+                    "type": "Button",
+                    "id": "cd68fbf8-f39b-4b9e-b2f4-ef93af41f733",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "af979a43-aad9-4811-ae27-2e9a795d34fe",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AcceptReward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "235a6bc3-cb8e-4b99-b5e1-5e9772224336",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AcceptReward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bdba215b-8a62-4753-9d6e-aaf0f9c8632c",
+                    "path": "<XInputController>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "AcceptReward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
